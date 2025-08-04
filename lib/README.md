@@ -14,13 +14,13 @@
 Using **npm**:
 
 ```bash
-npm install @nuxui/core
+npm install @nux-ui/core
 ```
 
 Or using **yarn**:
 
 ```bash
-yarn add @nuxui/core
+yarn add @nux-ui/core
 ```
 
 ## 🚀 Usage
@@ -28,7 +28,7 @@ yarn add @nuxui/core
 You can run the CLI directly with `npx`:
 
 ```bash
-npx @nuxui/core <command>
+npx nux <command>
 ```
 
 ### Available Commands
@@ -43,8 +43,8 @@ npx @nuxui/core <command>
 ## 📁 Example
 
 ```bash
-npx @nuxui/core init
-npx @nuxui/core list
-npx @nuxui/core add button
-npx @nuxui/core add --all
+npx nux init
+npx nux list
+npx nux add button
+npx nux add --all
 ```
