@@ -1,5 +1,5 @@
 {
-  "name": "@nuxui/playground",
+  "name": "@nux-ui/playground",
   "version": "1.0.0",
   "scripts": {
     "android": "expo run:android",
